@@ -1,0 +1,4 @@
+order_id,sku,quantity,unit_price
+1001,ABC-100,2,19.99
+1002,XYZ-200,3,14.99
+1003,ABC-100,1,19.99
